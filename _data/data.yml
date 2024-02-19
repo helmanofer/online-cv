@@ -151,7 +151,7 @@ publications:
       - title: Moving from Redshift-based architecture to Databricks Delta Lake
         link: https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7
         authors: Ofer Helman
-        # conference: [Lakehouse Day Tel Aviv](https://pages.databricks.com/202303-EMEA-FE-Lakehouse-Day-Tel-Aviv.html)
+        conference: [Lakehouse Day Tel Aviv](https://pages.databricks.com/202303-EMEA-FE-Lakehouse-Day-Tel-Aviv.html)
 
 #       - title: Powering limitless video experiences worldwide
 #         link: https://www.databricks.com/customers/kaltura
