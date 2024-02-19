@@ -70,35 +70,37 @@ experiences:
         time: Jul 2022 - Present
         company: Kaltura
         details: |
-          Leading the LLM Era at Kaltura. Building production grade LLM based products using various technics such as RAG. 
-          Built a Whisper based Transcription service replacing external vendor's services.
+          Leading the LLM Era at Kaltura. Building production-grade LLM-based products using various techniques such as RAG. 
+          Built a Whisper Transcription service replacing external vendor's services.
               - OpenAI
               - AWS Bedrock
               - Open Telemetry
               - FastAPI
               - PGVector
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior Data and AI Engineer
+        time: Mar 2021 - Jul 2022
+        company: Kaltura
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Built the Kaltura's data stack ground up. 
+          Architecting, designing, developing, and deploying large-scale data and ML pipelines
+            - AWS
+            - Databricks (Delta tables, Unity Catalog)
+            - DBT
+            - Airflow (MWAA)
+            - Terraform
+            - GitHub actions
+      - role: Big data and Search Engineer
+        time: Nov 2016 - Mar 2021
+        company: Israeli Government
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Architecting, designing, and developing large-scale products for big-data processing 
+          Building an internal search engine using Solr and NLP techniques.
+          Implementing Semantic Search using Vector similarity (KNN) implementation as a Solr Plugin.
+            - Apache Solr
+            - Elasticsearch stack 
+            - Kafka - 
+            - HBase
+            - Spark, and Spark Streaming
 
 certifications:
       title: Certifications
