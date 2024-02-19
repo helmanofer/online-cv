@@ -44,20 +44,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      10+ years experience as a data/ML engineer architecting, designing, and developing large-scale data pipelines, ML systems, and search engines. Currently Data/ML Tech Lead at Kaltura leading LLM product development. Previously held data engineering and ML roles at Israeli Government, Revuze, Kaminario, and NICE Systems. Built internal search engine using Solr/NLP at Israeli Government. Led algorithm team at Revuze to create NLP/ML products analyzing customer reviews. Extensive tech expertise with Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS, Airflow. BSc in Electronics/Computer Engineering (honors) and MBA focused on IS (honors). Led multiple teams and projects over career. Skilled at architecting, implementing, and deploying end-to-end ML and data solutions from start to finish. Solid tech skills combined with leadership/management abilities to continue advancing data/ML career.
-education:
-    title: Education
-    info:
-      - degree: M.BA Management and information systems
-        university: Netanya Academic Center
-        time: 2008 - 2010
-        details: |
-          Graduated with honors with a major in Information systems
-      - degree: B.Sc Electronics and computers engineering
-        university: Ruppin Academic College (Israel)
-        time: 2003 - 2007
-        details: |
-          Graduated with honorד with major courses in communication, DSP, and computers
+      10+ years experience as a data/ML engineer architecting, designing, and developing large-scale data pipelines, 
+      ML systems, and search engines. Currently Data/ML Tech Lead at Kaltura leading LLM product development. 
+      Previously held data engineering and ML roles at the Israeli Government, Revuze, Kaminario, and NICE Systems. 
+      Built an internal search engine using Solr/NLP at the Israeli Government. 
+      Led algorithm team at Revuze to create NLP/ML products by analyzing customer reviews. 
+      Extensive tech expertise with Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS, and Airflow. 
+      BSc in Electronics/Computer Engineering (honors) and MBA focused on IS (honors). 
+      Led multiple teams and projects over career. Skilled at architecting, 
+      implementing, and deploying end-to-end ML and data solutions from start to finish. 
+      Solid tech skills combined with leadership/management abilities to continue advancing my data/ML career.
 
 experiences:
     title: Experiences
@@ -165,3 +161,17 @@ publications:
       - title: How the streaming services and Netflix algorithm works
         link: https://www.geektime.co.il/how-the-streaming-services-and-netflix-algorithm-works/
         authors: Ofer Helamn, Itay Kinrot
+
+education:
+    title: Education
+    info:
+      - degree: M.BA Management and information systems
+        university: Netanya Academic Center
+        time: 2008 - 2010
+        details: |
+          Graduated with honors with a major in Information systems
+      - degree: B.Sc Electronics and computers engineering
+        university: Ruppin Academic College (Israel)
+        time: 2003 - 2007
+        details: |
+          Graduated with honorד with major courses in communication, DSP, and computers
