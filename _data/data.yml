@@ -17,7 +17,7 @@ sidebar:
     phone: +972-507267612
     timezone: Israel/Jerusalem Timezone
     citizenship: Israeli
-    website: medium.com/@helmanofer
+    medium: medium.com/@helmanofer
     linkedin: helmanofer
     github: helmanofer
     stack-overflow: 1253251/ofer-helman
@@ -68,16 +68,16 @@ experiences:
         details: |
           Leading the LLM Era at Kaltura. Building production-grade LLM-based products using various techniques such as RAG. 
           Built a Whisper Transcription service replacing external vendor's services.
-              - OpenAI
-              - AWS Bedrock
-              - Open Telemetry
-              - FastAPI
-              - PGVector
+            - OpenAI
+            - AWS Bedrock
+            - Open Telemetry
+            - FastAPI
+            - PGVector
       - role: Senior Data and AI Engineer
         time: Mar 2021 - Jul 2022
         company: Kaltura
         details: |
-          Built the Kaltura's data stack ground up. 
+          Built the Kaltura's data stack ground up. The stack includes pipelines handling 100s of TB a day
           Architecting, designing, developing, and deploying large-scale data and ML pipelines
             - AWS
             - Databricks (Delta tables, Unity Catalog)
@@ -156,7 +156,7 @@ publications:
       - title: Moving from Redshift-based architecture to Databricks Delta Lake
         link: https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7
         authors: Ofer Helman
-        conference: Lakehouse Day Tel Aviv
+        conference: Lakehouse Day Tel Aviv 2023
         
       - title: Powering limitless video experiences worldwide
         link: https://www.databricks.com/customers/kaltura
