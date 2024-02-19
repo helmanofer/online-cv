@@ -148,7 +148,7 @@ oss:
 publications:
     title: Publications
     papers:
-      - title: Web UI smackdown: assessing python frameworks for AI prototyping
+      - title: "Web UI smackdown: Assessing Python frameworks for AI prototyping"
         link: https://www.startupforstartup.com/ww/blog/web-ui-smackdown-assessing-python-frameworks-for-ai-prototyping/
         authors: Ofer Helman
         conference: Startup for Startup by Monday
