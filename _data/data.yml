@@ -133,31 +133,12 @@ projects:
     title: Projects
     assignments:
       - title: Pydantic Prompter
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        link: https://helmanofer.github.io/pydantic-prompter/
+        tagline: > 
+            Seamlessly call LLMs like functions in Python with Pydantic Prompter. 
+            It handles prompt creation and output parsing to custom models for providers like Cohere, Bedrock, and OpenAI
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: NLTK
         link: https://www.nltk.org/
