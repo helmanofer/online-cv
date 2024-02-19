@@ -17,7 +17,7 @@ sidebar:
     phone: +972-507267612
     timezone: Israel/Jerusalem Timezone
     citizenship: Israeli
-    medium: medium.com/@helmanofer
+    blog: medium.com/@helmanofer
     linkedin: helmanofer
     github: helmanofer
     stack-overflow: 1253251/ofer-helman
@@ -138,11 +138,11 @@ oss:
     contributions:
       - title: NLTK
         link: https://www.nltk.org/
-        tagline: Added support for QuadgramCollocationFinder and QuadgramAssocMeasures
+        tagline: "Added support for QuadgramCollocationFinder and QuadgramAssocMeasures - A technique to fine key topics"
 
       - title: Llama Index
         link: https://www.llamaindex.ai/
-        tagline: support Postgres vector store
+        tagline: Added support Postgres vector store using PGVector and SQLAlchemy
 
 
 publications:
