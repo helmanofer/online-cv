@@ -151,12 +151,12 @@ publications:
       - title: Moving from Redshift-based architecture to Databricks Delta Lake
         link: https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7
         authors: Ofer Helman
-        conference: [Lakehouse Day Tel Aviv](https://pages.databricks.com/202303-EMEA-FE-Lakehouse-Day-Tel-Aviv.html)
+        conference: Lakehouse Day Tel Aviv
+        
+      - title: Powering limitless video experiences worldwide
+        link: https://www.databricks.com/customers/kaltura
+        authors: Omer Kolodny and Ofer Helman
 
-#       - title: Powering limitless video experiences worldwide
-#         link: https://www.databricks.com/customers/kaltura
-#         authors: Omer Kolodny and Ofer Helman
-
-#       - title: How the streaming services and Netflix algorithm works
-#         link: https://www.geektime.co.il/how-the-streaming-services-and-netflix-algorithm-works/
-#         authors: Ofer Helamn, Itay Kinrot
+      - title: How the streaming services and Netflix algorithm works
+        link: https://www.geektime.co.il/how-the-streaming-services-and-netflix-algorithm-works/
+        authors: Ofer Helamn, Itay Kinrot
