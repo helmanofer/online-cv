@@ -98,9 +98,28 @@ experiences:
           Implementing Semantic Search using Vector similarity (KNN) implementation as a Solr Plugin.
             - Apache Solr
             - Elasticsearch stack 
-            - Kafka - 
+            - Kafka
             - HBase
             - Spark, and Spark Streaming
+      - role: Head of RnD (VP)
+        time: Nov 2016 - Nov 2017
+        company: Revuze
+        details: |
+          Revuze specializes in analyzing customers' reviews and extracting insights
+          from the text with very little manual work.
+          Managed the RnD including FE, BE QA, and algorithm teams
+      - role: Algorithm development team leader
+        time: Dec 2014 - Nov 2016
+        company: Revuze
+        details: |
+          Established a new development team to develop the machine learning and NLP products
+      - role: Algorithm developer
+        time: Dec 2013 - Dec 2014
+        company: Revuze
+        details: |
+          Designed architected and developed the core product
+          Developed supervised and unsupervised machines
+          [NLTK](https://www.nltk.org/) contributor
 
 certifications:
       title: Certifications
