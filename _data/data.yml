@@ -45,30 +45,18 @@ career-profile:
     title: Career Profile
     summary: |
       I am an experienced data and ML engineer with over 10 years of experience architecting, designing, and developing large-scale data pipelines, machine learning systems, and search engines. I am currently a Data and ML Tech Lead at Kaltura, leading the development of LLM-based products.
-      I have previously worked at the Israeli Government, Revuze, Kaminario, and NICE Systems in various data engineering and machine learning roles. At the Israeli Government, I built an internal search engine using Solr and NLP. At Revuze, I established and led the algorithm development team to create core NLP and machine learning products for analyzing customer reviews.
+      I have previously worked in various data engineering and machine learning roles at the Israeli Government, Revuze, Kaminario, and NICE Systems. I built an internal search engine using Solr and NLP at the Israeli Government. At Revuze, I established and led the algorithm development team to create core NLP and machine learning products for analyzing customer reviews.
       On the tech side, I have extensive experience with Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS services, Airflow, and more. I hold a BSc in Electronics and Computer Engineering (graduated with honors) and an MBA focused on Information Systems (graduated with honors).
-      I have led multiple teams and projects over my career. I am skilled at architecting, implementing and deploying end-to-end machine learning and data solutions. With my solid tech expertise combined with leadership and management skills, I am well-positioned to continue advancing my career in data and ML.education:
+      I have led multiple teams and projects over my career. I am skilled at architecting, implementing, and deploying end-to-end machine learning and data solutions. With my solid tech expertise combined with leadership and management skills, I am well-positioned to continue advancing my career in data and ML
 
-2003 - 2007
-
-Ruppin Academic College (Israel), B.Sc Electronics and computers engineering
-
-Graduated with honor with major courses in communication, DSP, and computers
-
-2008 - 2010
-
-Netanya Academic Center, M.BA Management and information systems
-
-Graduated with honor with a major in Information systems
-
-    
+education:
     title: Education
     info:
       - degree: M.BA Management and information systems
         university: Netanya Academic Center
         time: 2008 - 2010
         details: |
-          Graduated with honor with a major in Information systems
+          Graduated with honors with a major in Information systems
       - degree: B.Sc Electronics and computers engineering
         university: Ruppin Academic College (Israel)
         time: 2003 - 2007
