@@ -8,105 +8,87 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ofer Helman
+    tagline: Data & AI Tech Lead
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: helmanofer@gmail.com
+    phone: +972-507267612
+    timezone: Israel/Jerusalem Timezone
+    citizenship: Israeli
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: helmanofer
+    github: helmanofer
+    stack-overflow: 1253251/ofer-helman
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Hebrew
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Skiing
           link:
 
-        - item: Snowboarding
+        - item: Mountain Cycling
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
+      I am an experienced data and ML engineer with over 10 years of experience architecting, designing, and developing large-scale data pipelines, machine learning systems, and search engines. I am currently a Data and ML Tech Lead at Kaltura, leading the development of LLM-based products.
+      I have previously worked at the Israeli Government, Revuze, Kaminario, and NICE Systems in various data engineering and machine learning roles. At the Israeli Government, I built an internal search engine using Solr and NLP. At Revuze, I established and led the algorithm development team to create core NLP and machine learning products for analyzing customer reviews.
+      On the tech side, I have extensive experience with Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS services, Airflow, and more. I hold a BSc in Electronics and Computer Engineering (graduated with honors) and an MBA focused on Information Systems (graduated with honors).
+      I have led multiple teams and projects over my career. I am skilled at architecting, implementing and deploying end-to-end machine learning and data solutions. With my solid tech expertise combined with leadership and management skills, I am well-positioned to continue advancing my career in data and ML.education:
+
+2003 - 2007
+
+Ruppin Academic College (Israel), B.Sc Electronics and computers engineering
+
+Graduated with honor with major courses in communication, DSP, and computers
+
+2008 - 2010
+
+Netanya Academic Center, M.BA Management and information systems
+
+Graduated with honor with a major in Information systems
+
+    
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.BA Management and information systems
+        university: Netanya Academic Center
+        time: 2008 - 2010
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Graduated with honor with a major in Information systems
+      - degree: B.Sc Electronics and computers engineering
+        university: Ruppin Academic College (Israel)
+        time: 2003 - 2007
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Graduated with honor with major courses in communication, DSP, and computers
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Data and AI Tech Lead
+        time: Jul 2022 - Present
+        company: Kaltura
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Leading the LLM Era at Kaltura. Building production grade LLM based products using various technics such as RAG. 
+          Built a Whisper based Transcription service replacing external vendor's services.
+              - OpenAI
+              - AWS Bedrock
+              - Open Telemetry
+              - FastAPI
+              - PGVector
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
