@@ -44,16 +44,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      10+ years experience as a data/ML engineer architecting, designing, and developing large-scale data pipelines, 
-      ML systems, and search engines. Currently Data/ML Tech Lead at Kaltura leading LLM product development. 
-      Previously held data engineering and ML roles at the Israeli Government, Revuze, Kaminario, and NICE Systems. 
-      Built an internal search engine using Solr/NLP at the Israeli Government. 
-      Led algorithm team at Revuze to create NLP/ML products by analyzing customer reviews. 
-      Extensive tech expertise with Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS, and Airflow. 
-      BSc in Electronics/Computer Engineering (honors) and MBA focused on IS (honors). 
-      Led multiple teams and projects over career. Skilled at architecting, 
-      implementing, and deploying end-to-end ML and data solutions from start to finish. 
-      Solid tech skills combined with leadership/management abilities to continue advancing my data/ML career.
+      Data/ML Engineer with over 10+ years of experience architecting, designing, 
+      and developing large-scale data pipelines, ML systems, and search engines. 
+      Proven ability to lead teams and drive end-to-end implementation of complex data and AI solutions. 
+      Skilled in Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS, and Airflow. 
+      Combining strong technical expertise with leadership and management capabilities to drive innovation and deliver high-impact results.
+
 
 experiences:
     title: Experiences
@@ -62,63 +58,40 @@ experiences:
         time: Jul 2022 - Present
         company: Kaltura
         details: |
-          Leading the LLM Era at Kaltura. Building production-grade LLM-based products using various techniques such as RAG. 
-          Built a Whisper Transcription service replacing external vendor's services.
-            - OpenAI
-            - AWS Bedrock
-            - Open Telemetry
-            - FastAPI
-            - PGVector
+            - Leading the LLM product development, building production-grade LLM-based products using techniques like RAG.
+            - Built a Whisper Transcription service, replacing an external vendor's service, resulting in ~50% cost savings.
+            - Technologies: OpenAI, AWS Bedrock, Open Telemetry, FastAPI, PGVector
       - role: Senior Data and AI Engineer
         time: Mar 2021 - Jul 2022
         company: Kaltura
         details: |
-          Built the Kaltura's data stack ground up. The stack includes pipelines handling 100s of TB a day
-          Architecting, designing, developing, and deploying large-scale data and ML pipelines
-            - AWS
-            - Databricks (Delta tables, Unity Catalog)
-            - DBT
-            - Airflow (MWAA)
-            - Terraform
-            - GitHub actions
+            - Architected and built Kaltura's data stack from the ground up, handling 100s of TB of data per day.
+            - Designed, developed, and deployed large-scale data and ML pipelines on AWS and Databricks.
+            - Technologies: AWS, Databricks (Delta tables, Unity Catalog), dbt, Airflow, Terraform
       - role: Big data and Search Engineer
         time: Nov 2016 - Mar 2021
         company: Israeli Government
         details: |
-          Architecting, designing, and developing large-scale products for big-data processing 
-          Building an internal search engine using Solr and NLP techniques.
-          Implementing Semantic Search using Vector similarity (KNN) implementation as a Solr Plugin.
-            - Apache Solr
-            - Elasticsearch stack 
-            - Kafka
-            - HBase
-            - Spark, and Spark Streaming
+            - Architected and developed large-scale products for big data processing and search.
+            - Built an internal search engine using Solr and NLP techniques, incorporating Semantic Search with Vector Similarity (KNN) implementation as a Solr Plugin.
+            - Technologies: Apache Solr, Elasticsearch, Kafka, HBase, Spark, Spark Streaming
       - role: Head of RnD (VP)
         time: Nov 2016 - Nov 2017
         company: Revuze
         details: |
-          Revuze specializes in analyzing customers' reviews and extracting insights
-          from the text with very little manual work.
-          Managed the RnD including FE, BE QA, and algorithm teams
+            - Led a development team for machine learning and NLP products.
+            - Designed, architected, and developed Revuze's core product for analyzing customer reviews using supervised and unsupervised ML techniques.
+            - Contributor to the NLTK (Natural Language Toolkit) project.
       - role: Algorithm development team leader
-        time: Dec 2014 - Nov 2016
+        time: Dec 2013 - Nov 2016
         company: Revuze
         details: |
-          Established a new development team to develop the machine learning and NLP products
-      - role: Algorithm developer
-        time: Dec 2013 - Dec 2014
-        company: Revuze
-        details: |
-          Designed architected and developed the core product
-          Developed supervised and unsupervised machines
-          [NLTK](https://www.nltk.org/) contributor
-
+              - Established a new development team to develop the machine learning and NLP products
       - role: Automation Infrastructure Dev Team Leader
         time: Apr 2010 - Dec 2013
         company: Kaminario (Silk)
         details: |
-          Lead the automation framework development team
-          The automation framework was designed to be fully scaled out
+              - Led the automation framework development team, designed for full scalability.
 
 
 projects:
