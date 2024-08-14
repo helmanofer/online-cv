@@ -55,12 +55,17 @@ experiences:
     title: Experiences
     info:
       - role: Data and AI Tech Lead
-        time: Jul 2022 - Present
+        time: Apr 2024 - Present
+        company: Seemplicity
+        
+      - role: Data and AI Tech Lead
+        time: Jul 2022 - Apr 2024
         company: Kaltura
         details: |
-            - Leading the LLM product development, building production-grade LLM-based products using techniques like RAG.
+            - I lead the LLM product development and build production-grade LLM-based products using techniques like RAG.
             - Built a Whisper Transcription service, replacing an external vendor's service, resulting in ~50% cost savings.
             - Technologies: OpenAI, AWS Bedrock, Open Telemetry, FastAPI, PGVector
+            
       - role: Senior Data and AI Engineer
         time: Mar 2021 - Jul 2022
         company: Kaltura
@@ -90,13 +95,10 @@ experiences:
       - role: Automation Infrastructure Dev Team Leader
         time: Apr 2010 - Dec 2013
         company: Kaminario (Silk)
-        details: |
-              - Led the automation framework development team, designed for full scalability.
       - role: Software QA Engineer
         time: Oct 2007 - Mar 2010
         company: NICE
-        details: |
-              - Proficient in VoIP
+
 
 
 projects:
@@ -105,7 +107,7 @@ projects:
       - title: Pydantic Prompter
         link: https://helmanofer.github.io/pydantic-prompter/
         tagline: > 
-            Seamlessly call LLMs like functions in Python with Pydantic Prompter. 
+            Seamlessly call LLMs-like functions in Python with Pydantic Prompter. 
             It handles prompt creation and output parsing to custom models for providers like Cohere, Bedrock, and OpenAI
 oss:
     title: OSS Contributions
