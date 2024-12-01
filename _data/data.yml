@@ -46,7 +46,7 @@ career-profile:
     summary: |
       Data/ML Engineer with over 10+ years of experience architecting, designing, 
       and developing large-scale data pipelines, ML systems, and search engines. 
-      Proven ability to lead teams and drive end-to-end implementation of complex data and AI solutions. 
+      Proven ability to lead teams and drive implementation of end-to-end complex data and AI solutions. 
       Skilled in Python, Java, Scala, Spark, Kafka, Solr, Elasticsearch, AWS, and Airflow. 
       Combining strong technical expertise with leadership and management capabilities to drive innovation and deliver high-impact results.
 
@@ -57,6 +57,10 @@ experiences:
       - role: Data and AI Tech Lead
         time: Apr 2024 - Present
         company: Seemplicity
+        details: |
+            - Led the migration from a microservices and Postgres-based infrastructure to a scalable big data architecture using Databricks, significantly improving the product’s performance
+            - Integrated AI capabilities into the core product, enhancing functionality and driving innovation
+            
         
       - role: Data and AI Tech Lead
         time: Jul 2022 - Apr 2024
